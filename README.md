@@ -1,1 +1,5 @@
-		Struggling to find great entertainment? Meet Rizzla Tube, your ultimate solution! With just a few taps, dive into a world of trending videos, hilarious comedies, and blockbuster movies, all tailored to your unique taste. Rizzla Tube’s smart AI curates the content you love, ensuring your 'For You' page is always spot on. Plus, enjoy fresh content daily with minimal data usage. Download Rizzla Tube for endless entertainment
+Struggling to find great entertainment? Meet Rizzla Tube, your ultimate solution! With just a few taps, dive into a world of trending videos, hilarious comedies, and blockbuster movies, all tailored to your taste!
+
+## Contributors
+
+- [Rizzla Deon](https://github.com/Rizzladeon)
